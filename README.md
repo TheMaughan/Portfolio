@@ -12,10 +12,9 @@ Currently, my projects included showcase the following skills:
 
 This project was completed back in December 2020 for my class - ARCH120
 
-The project is a structural and architectual draft plan for a lakehouse. The project is not intended to be used for any actual building. The project is intended to show my ability in drawing within and using AutoCAD for Architectual purposes.
+The project is a structural, architectual, and a siteplan draft design for a lakehouse. The project is not intended to be used for any actual building. The project is intended to show my ability in drawing within and using AutoCAD for Architectual purposes.
 
 The design for the lake house is originally from Autodesk's AutoCAD-2020 textbook, with my own creative designs and details added.
-
 
 # Useful Websites
 
