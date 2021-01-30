@@ -8,13 +8,19 @@ Currently, my projects included showcase the following skills:
 
 * AutoCAD
 
-## AutoCAD Project:
+### AutoCAD Project:
 
 This project was completed back in December 2020 for my class - ARCH120
 
 The project is a structural, architectual, and a siteplan draft design for a lakehouse. The project is not intended to be used for any actual building. The project is intended to show my ability in drawing within and using AutoCAD for Architectual purposes.
 
 The design for the lake house is originally from Autodesk's AutoCAD-2020 textbook, with my own creative designs and details added.
+
+### Basic Python OOP Demonstration:
+
+This is a simple program using all the basic principals of the Python language. This program is very simple and it's only function is to print a recipt.
+
+The main goal for showing this program is to use it as a template for transalating python into more complex languages, like Java & C++. From there I currently plan on expanding on the basic recipt program by including other programs in other languages. For example, a program allowing a user to 'shop' on a store connected to the recipt program.
 
 # Useful Websites
 
