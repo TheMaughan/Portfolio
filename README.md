@@ -19,7 +19,7 @@ The model for the lake house was originally from Autodesk's AutoCAD-2020 textboo
 
 [AudoCAD-2020 textbook](https://www.amazon.com/Residential-Design-Using-AutoCAD-2020/dp/1630572586/ref=sr_1_7?dchild=1&hvadid=78134157793646&hvbmt=bb&hvdev=c&hvqmt=p&keywords=autocad+2020&qid=1611963312&sr=8-7&tag=mh0b-20)
 
-# Useful Websites
+# LinkedIn Website
 
 * [My LinkedIn profile URL](www.linkedin.com/in/bryce-maughan)
 
