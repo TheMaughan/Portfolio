@@ -1,6 +1,6 @@
 # Overview
 
-This is a collection of Projects that I have been working on, this repository will update randomly untill I have all my content uploaded. There are currently several projects being worked on along with more planned ahead. All projects included in this portfolio will be completed or very near completion.
+This repository will update randomly with my projects, I plan on having this portfolio and all planned projects completed by mid-April 2021.
 
 # Development Environment
 
@@ -11,11 +11,11 @@ Currently, my projects included showcase the following skills:
 
 ### AutoCAD Project:
 
-This project was completed back in December 2020
+This project was completed December 2020
 
-The project is a structural, architectual, and a siteplan draft design for a lakehouse. The project is not intended to be used for any actual building. The project was made while learning 2D drafting tools in AutoCAD.
+The project is a structural, architectual, and a siteplan draft design for a lakehouse. The project is not intended to be used for any actual building. The project was originally made for the purpose of learning the 2D drafting tools in AutoCAD.
 
-The design for the lake house is originally from Autodesk's AutoCAD-2020 textbook, with my own creative designs and details added.
+The model for the lake house was originally from Autodesk's AutoCAD-2020 textbook, I added my own customizations while drafting my own version of AutoCAD's lakehouse.
 
 [AudoCAD-2020 textbook](https://www.amazon.com/Residential-Design-Using-AutoCAD-2020/dp/1630572586/ref=sr_1_7?dchild=1&hvadid=78134157793646&hvbmt=bb&hvdev=c&hvqmt=p&keywords=autocad+2020&qid=1611963312&sr=8-7&tag=mh0b-20)
 
