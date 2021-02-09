@@ -7,25 +7,21 @@ This is a collection of Projects that I have been working on, this repository wi
 Currently, my projects included showcase the following skills:
 
 * AutoCAD
+* Programming in Java
 
 ### AutoCAD Project:
 
-This project was completed back in December 2020 for my class - ARCH120
+This project was completed back in December 2020
 
-The project is a structural, architectual, and a siteplan draft design for a lakehouse. The project is not intended to be used for any actual building. The project is intended to show my ability in drawing within and using AutoCAD for Architectual purposes.
+The project is a structural, architectual, and a siteplan draft design for a lakehouse. The project is not intended to be used for any actual building. The project was made while learning 2D drafting tools in AutoCAD.
 
 The design for the lake house is originally from Autodesk's AutoCAD-2020 textbook, with my own creative designs and details added.
 
-### Basic Python OOP Demonstration:
-
-This is a simple program using all the basic principals of the Python language. This program is very simple and it's only function is to print a recipt.
-
-The main goal for showing this program is to use it as a template for transalating python into more complex languages, like Java & C++. From there I currently plan on expanding on the basic recipt program by including other programs in other languages. For example, a program allowing a user to 'shop' on a store connected to the recipt program.
+[AudoCAD-2020 textbook](https://www.amazon.com/Residential-Design-Using-AutoCAD-2020/dp/1630572586/ref=sr_1_7?dchild=1&hvadid=78134157793646&hvbmt=bb&hvdev=c&hvqmt=p&keywords=autocad+2020&qid=1611963312&sr=8-7&tag=mh0b-20)
 
 # Useful Websites
 
 * [My LinkedIn profile URL](www.linkedin.com/in/bryce-maughan)
-* [AudoCAD-2020 textbook](https://www.amazon.com/Residential-Design-Using-AutoCAD-2020/dp/1630572586/ref=sr_1_7?dchild=1&hvadid=78134157793646&hvbmt=bb&hvdev=c&hvqmt=p&keywords=autocad+2020&qid=1611963312&sr=8-7&tag=mh0b-20)
 
 # Future Work
 
@@ -34,7 +30,6 @@ Projects that I am working on and are planned will showcase these skills:
 * Python programming language
 * C++
 * C#
-* Java
 * JavaScript
 * HTML/CSS
 * Web App Development
