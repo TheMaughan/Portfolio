@@ -6,7 +6,7 @@ I made my own version of the Atarii Asteroid game. Originally this game was for 
 
 The game's main classes and class families are grouped into their own files, much like how a program is written in Java. I did this so that the code that I write within the different game files could be easily duplicated for other projects and adding things to the game, like a menu system, would be easier to do in this state.
 
-Run the game from within the 'Game_World.py' file in a code editor, I will post a '.exe' file shortly.
+Run the game from the 'Game_World.py' using cmd prompt, I will post a '.exe' file shortly.
 
 # Development Environment
 
