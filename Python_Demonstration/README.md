@@ -2,15 +2,17 @@
 
 The main purpose of this folder is to demonstrate my knowledge of the Python language.
 
-I made my own version of the Atarii Asteroid game to demonstrate my proficiency of the programming language Python. The game's main classes and class families are grouped into their own files much like the Java language. I did this so that the code that I write within the different game files could be easily duplicated for other projects and for any added features and effects that I would add to the game, for example, partical effects for explosions and engine smoke, a second player, and a menu system.
+I made my own version of the Atarii Asteroid game. Originally this game was for a class assignment and is the most complex program that I have made using Python. 
 
-Run the game from within the 'Game_World.py' file.
+The game's main classes and class families are grouped into their own files, much like how a program is written in Java. I did this so that the code that I write within the different game files could be easily duplicated for other projects and adding things to the game, like a menu system, would be easier to do in this state.
+
+Run the game from within the 'Game_World.py' file in a code editor, I will post a '.exe' file shortly.
 
 # Development Environment
 
-I created both programs in Visual Studio Code
+I wrote all my code for this game in Visual Studio Code.
 
-I also used Python Arcade to generate the essential game engine physics and utility.
+I used Python Arcade Library to generate the game window and for some important utility.
 
 # Useful Websites
 
