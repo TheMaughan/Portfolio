@@ -8,6 +8,7 @@ Currently, my projects included showcase the following skills:
 
 * AutoCAD
 * Programming in Java
+* Programming in Python
 
 ### AutoCAD Project:
 
