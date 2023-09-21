@@ -1,0 +1,112 @@
+Twilio WebRTC Diagnostics
+Checks your browser and network environment to ensure you can use Twilio's WebRTC products.
+Pass NTS: TURN UDP Connectivity
+Verifies UDP connectivity from your browser to Twilio's TURN servers.
+
+Pass NTS: TURN TCP Connectivity
+Verifies TCP connectivity from your browser to Twilio's TURN servers. Note: TCP connectivity is not currently supported in Twilio Client.
+
+Pass NTS: TURN TLS Connectivity
+Verifies TLS connectivity from your browser to Twilio's TURN servers. Note: TLS connectivity is not currently supported in Twilio Client.
+
+Pass Voice: Bandwidth
+Determine how many simultaneous Twilio Client calls your network can support.
+
+Fail Voice: Test call using PCMU
+Test the browser's ability to make calls with Twilio Client.
+
+A region can be specified by adding it as a query param, eg. https://networktest.twilio.com/?region=us1
+
+Pass Voice: Test call using Opus
+Test the browser's ability to make calls with Twilio Client.
+
+A region can be specified by adding it as a query param, eg. https://networktest.twilio.com/?region=us1
+
+Pass Video: Insights Connectivity
+Verifies connectivity from your browser to Twilio Insights endpoint
+
+Pass Video: Signaling Connectivity
+Verifies connectivity from your browser to Twilio signaling endpoint.
+
+Pass Video: Test Group Room with TURN
+Test browser's ability to connect to a Group Room through TURN relay with Twilio Video.
+
+Pass Video: Test Group Room without TURN
+Test browser's ability to connect to a Group Room through Media Server with Twilio Video.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[9:51:31 PM] Test "TURN UDP Connectivity" started...
+[9:51:32 PM] Successfully established a UDP connection to Twilio in 749ms
+[9:51:32 PM] Test "TURN UDP Connectivity" ended
+[9:51:32 PM] Test "TURN TCP Connectivity" started...
+[9:51:33 PM] Successfully established a TCP connection to Twilio in 674ms
+[9:51:33 PM] Test "TURN TCP Connectivity" ended
+[9:51:33 PM] Test "TURN TLS Connectivity" started...
+[9:51:33 PM] Successfully established a TLS connection to Twilio in 663ms
+[9:51:33 PM] Test "TURN TLS Connectivity" ended
+[9:51:33 PM] Test "Bandwidth" started...
+[9:51:34 PM] Successfully established a connection to Twilio in 580ms
+[9:51:49 PM] Highest bandwidth: 5726.21 kBits/sec.
+[9:51:49 PM] Lowest bandwidth: 1908.74 kBits/sec.
+[9:51:49 PM] Average bandwidth: 3934.10 kBits/sec.
+[9:51:49 PM] Supported simultaneous Twilio Client connections:
+PCMU (Estimated 100 kBits/sec per connection):
+	Average: 39
+	Lowest: 19
+	Highest: 57
+Opus (Estimated 50 kBits/sec per connection):
+	Average: 78
+	Lowest: 38
+	Highest: 114
+[9:51:49 PM] Test "Bandwidth" ended
+[9:51:49 PM] Test "Test call using PCMU" started...
+[9:51:49 PM] Initializing Twilio Client. Setting up Twilio.Device using PCMU...
+[9:51:51 PM] Twilio Client initialized
+[9:51:51 PM] Twilio Client connected to us1
+[9:51:51 PM] Requesting microphone access...
+[9:52:00 PM] Call connected with CallSid CA72a7e3a99f178f8f12055bf05ef802b1
+[9:52:10 PM] Call was hung up
+[9:52:10 PM] RTT: [avg: 638.88ms, min: 83ms, max: 1047ms]
+[9:52:10 PM] Jitter: [avg: 16.33s, min: 8s, max: 22s]
+[9:52:10 PM] Packet Loss: [avg: 0.24%, min: 0%, max: 2.22%]
+[9:52:10 PM] Twilio Client disconnected. Overall quality was: Great (4.18).
+[9:52:10 PM] Error: Error: Could not establish an ICE connection within 10 seconds.
+[9:52:10 PM] Test "Test call using Opus" started...
+[9:52:10 PM] Initializing Twilio Client. Setting up Twilio.Device using Opus...
+[9:52:12 PM] Twilio Client initialized
+[9:52:12 PM] Twilio Client connected to us1
+[9:52:12 PM] Requesting microphone access...
+[9:52:15 PM] Call connected with CallSid CAe50d2c4acb36a89ba0d7af27ec0a093b
+[9:52:25 PM] Call was hung up
+[9:52:25 PM] RTT: [avg: 1414ms, min: 540ms, max: 3162ms]
+[9:52:25 PM] Jitter: [avg: 8.33s, min: 3s, max: 19s]
+[9:52:25 PM] Packet Loss: [avg: 0%, min: 0%, max: 0%]
+[9:52:25 PM] Twilio Client disconnected. Overall quality was: Degraded (2.83).
+[9:52:25 PM] Test "Test call using Opus" ended
+[9:52:25 PM] Test "Insights Connectivity" started...
+[9:52:26 PM] Successfully established a connection to Twilio Insights endpoint in 877ms
+[9:52:26 PM] Test "Insights Connectivity" ended
+[9:52:26 PM] Test "Signaling Connectivity" started...
+[9:52:26 PM] creating room...
+[9:52:27 PM] Successfully joined a Room
+[9:52:27 PM] Room SID: RM87fef899953f915a08806b87c0274f2d
+[9:52:29 PM] Successfully established a connection to Twilio signaling endpoint
+[9:52:29 PM] Test "Signaling Connectivity" ended
+[9:52:29 PM] Test "Test Group Room with TURN" started...
+[9:52:29 PM] Attempting to connect to a Room
+[9:52:42 PM] Successfully joined a Room
+[9:52:42 PM] Room SID:RM92683685256b5d16b1ff24f19098954e
+[9:52:48 PM] BytesReceived (Audio): 6378
+[9:52:48 PM] BytesReceived (Video): 5281
+[9:52:48 PM] Group Room completed successfully
+[9:52:48 PM] Test "Test Group Room with TURN" ended
+[9:52:48 PM] Test "Test Group Room without TURN" started...
+[9:52:48 PM] Attempting to connect to a Room
+[9:52:53 PM] Successfully joined a Room
+[9:52:53 PM] Room SID:RM08e5a5023fe939673a1563adf470d36e
+[9:52:58 PM] BytesReceived (Audio): 8849
+[9:52:58 PM] BytesReceived (Video): 3608
+[9:52:58 PM] Group Room completed successfully
+[9:52:58 PM] Test "Test Group Room without TURN" ended
+[9:52:58 PM] Done.

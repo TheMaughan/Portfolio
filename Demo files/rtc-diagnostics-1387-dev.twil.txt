@@ -1,0 +1,1200 @@
+[
+  {
+    "region": "roaming",
+    "results": {
+      "preflight": {
+        "callSid": "CA805e2e5bc6993f0ea60c71ef7a08a5c6",
+        "edge": "ashburn",
+        "iceCandidates": [
+          {
+            "id": "RTCIceCandidate_1KsFfRj6",
+            "timestamp": 1624852448662,
+            "type": "local-candidate",
+            "transportId": "RTCTransport_0_1",
+            "isRemote": false,
+            "networkType": "unknown",
+            "ip": "205.185.110.178",
+            "address": "205.185.110.178",
+            "port": 58135,
+            "protocol": "udp",
+            "candidateType": "srflx",
+            "priority": 1677729535
+          },
+          {
+            "id": "RTCIceCandidate_R3RbrNeh",
+            "timestamp": 1624852448662,
+            "type": "remote-candidate",
+            "transportId": "RTCTransport_0_1",
+            "isRemote": true,
+            "ip": "34.203.251.89",
+            "address": "34.203.251.89",
+            "port": 17360,
+            "protocol": "udp",
+            "candidateType": "host",
+            "priority": 2130706431
+          }
+        ],
+        "networkTiming": {
+          "dtls": {
+            "start": 1624852448018,
+            "end": 1624852448128,
+            "duration": 110
+          },
+          "ice": {
+            "start": 1624852447571,
+            "end": 1624852448030,
+            "duration": 459
+          },
+          "peerConnection": {
+            "start": 1624852448015,
+            "end": 1624852448233,
+            "duration": 218
+          }
+        },
+        "samples": [
+          {
+            "audioInputLevel": 10862,
+            "audioOutputLevel": 1865,
+            "bytesReceived": 1363,
+            "bytesSent": 3352,
+            "codecName": "opus",
+            "jitter": 3,
+            "mos": null,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 10,
+            "packetsSent": 38,
+            "rtt": 119,
+            "timestamp": 1624852448662,
+            "totals": {
+              "bytesReceived": 1363,
+              "bytesSent": 3352,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 10,
+              "packetsSent": 38
+            }
+          },
+          {
+            "audioInputLevel": 9550,
+            "audioOutputLevel": 7004,
+            "bytesReceived": 6643,
+            "bytesSent": 4050,
+            "codecName": "opus",
+            "jitter": 6,
+            "mos": 4.388951551488602,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 81,
+            "timestamp": 1624852449662,
+            "totals": {
+              "bytesReceived": 8006,
+              "bytesSent": 7402,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 60,
+              "packetsSent": 88
+            }
+          },
+          {
+            "audioInputLevel": 10025,
+            "audioOutputLevel": 7131,
+            "bytesReceived": 6296,
+            "bytesSent": 4050,
+            "codecName": "opus",
+            "jitter": 8,
+            "mos": 4.386311091110977,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 49,
+            "packetsSent": 50,
+            "rtt": 82,
+            "timestamp": 1624852450666,
+            "totals": {
+              "bytesReceived": 14302,
+              "bytesSent": 11452,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 109,
+              "packetsSent": 138
+            }
+          },
+          {
+            "audioInputLevel": 10446,
+            "audioOutputLevel": 7275,
+            "bytesReceived": 6554,
+            "bytesSent": 4050,
+            "codecName": "opus",
+            "jitter": 5,
+            "mos": 4.389476585990376,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 51,
+            "packetsSent": 50,
+            "rtt": 82,
+            "timestamp": 1624852451657,
+            "totals": {
+              "bytesReceived": 20856,
+              "bytesSent": 15502,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 160,
+              "packetsSent": 188
+            }
+          },
+          {
+            "audioInputLevel": 10673,
+            "audioOutputLevel": 7588,
+            "bytesReceived": 6425,
+            "bytesSent": 4050,
+            "codecName": "opus",
+            "jitter": 2,
+            "mos": 4.393640060869577,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 80,
+            "timestamp": 1624852452662,
+            "totals": {
+              "bytesReceived": 27281,
+              "bytesSent": 19552,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 210,
+              "packetsSent": 238
+            }
+          },
+          {
+            "audioInputLevel": 10216,
+            "audioOutputLevel": 7332,
+            "bytesReceived": 6424,
+            "bytesSent": 4050,
+            "codecName": "opus",
+            "jitter": 9,
+            "mos": 4.385779946055451,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 81,
+            "timestamp": 1624852453661,
+            "totals": {
+              "bytesReceived": 33705,
+              "bytesSent": 23602,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 260,
+              "packetsSent": 288
+            }
+          },
+          {
+            "audioInputLevel": 10011,
+            "audioOutputLevel": 7249,
+            "bytesReceived": 6424,
+            "bytesSent": 4050,
+            "codecName": "opus",
+            "jitter": 3,
+            "mos": 4.392086434536752,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 81,
+            "timestamp": 1624852454665,
+            "totals": {
+              "bytesReceived": 40129,
+              "bytesSent": 27652,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 310,
+              "packetsSent": 338
+            }
+          },
+          {
+            "audioInputLevel": 9816,
+            "audioOutputLevel": 7224,
+            "bytesReceived": 6295,
+            "bytesSent": 4050,
+            "codecName": "opus",
+            "jitter": 3,
+            "mos": 4.392086434536752,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 49,
+            "packetsSent": 50,
+            "rtt": 81,
+            "timestamp": 1624852455657,
+            "totals": {
+              "bytesReceived": 46424,
+              "bytesSent": 31702,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 359,
+              "packetsSent": 388
+            }
+          },
+          {
+            "audioInputLevel": 10570,
+            "audioOutputLevel": 7081,
+            "bytesReceived": 6552,
+            "bytesSent": 4050,
+            "codecName": "opus",
+            "jitter": 7,
+            "mos": 4.387898422942551,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 51,
+            "packetsSent": 50,
+            "rtt": 81,
+            "timestamp": 1624852456661,
+            "totals": {
+              "bytesReceived": 52976,
+              "bytesSent": 35752,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 410,
+              "packetsSent": 438
+            }
+          },
+          {
+            "audioInputLevel": 10109,
+            "audioOutputLevel": 7443,
+            "bytesReceived": 6424,
+            "bytesSent": 4046,
+            "codecName": "opus",
+            "jitter": 10,
+            "mos": 4.384714608214401,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 81,
+            "timestamp": 1624852457658,
+            "totals": {
+              "bytesReceived": 59400,
+              "bytesSent": 39798,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 460,
+              "packetsSent": 488
+            }
+          },
+          {
+            "audioInputLevel": 10069,
+            "audioOutputLevel": 7295,
+            "bytesReceived": 6423,
+            "bytesSent": 3804,
+            "codecName": "opus",
+            "jitter": 5,
+            "mos": 4.391045562535702,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 47,
+            "rtt": 79,
+            "timestamp": 1624852458657,
+            "totals": {
+              "bytesReceived": 65823,
+              "bytesSent": 43602,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 510,
+              "packetsSent": 535
+            }
+          },
+          {
+            "audioInputLevel": 10426,
+            "audioOutputLevel": 7327,
+            "bytesReceived": 6423,
+            "bytesSent": 4296,
+            "codecName": "opus",
+            "jitter": 6,
+            "mos": 4.390000599769651,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 53,
+            "rtt": 79,
+            "timestamp": 1624852459657,
+            "totals": {
+              "bytesReceived": 72246,
+              "bytesSent": 47898,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 560,
+              "packetsSent": 588
+            }
+          },
+          {
+            "audioInputLevel": 10162,
+            "audioOutputLevel": 7593,
+            "bytesReceived": 6422,
+            "bytesSent": 4048,
+            "codecName": "opus",
+            "jitter": 4,
+            "mos": 4.392086434536752,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 79,
+            "timestamp": 1624852460664,
+            "totals": {
+              "bytesReceived": 78668,
+              "bytesSent": 51946,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 610,
+              "packetsSent": 638
+            }
+          },
+          {
+            "audioInputLevel": 10236,
+            "audioOutputLevel": 7279,
+            "bytesReceived": 6422,
+            "bytesSent": 4056,
+            "codecName": "opus",
+            "jitter": 3,
+            "mos": 4.393123210522801,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 79,
+            "timestamp": 1624852461664,
+            "totals": {
+              "bytesReceived": 85090,
+              "bytesSent": 56002,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 660,
+              "packetsSent": 688
+            }
+          },
+          {
+            "audioInputLevel": 10277,
+            "audioOutputLevel": 7187,
+            "bytesReceived": 6422,
+            "bytesSent": 3969,
+            "codecName": "opus",
+            "jitter": 3,
+            "mos": 4.393123210522801,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 49,
+            "rtt": 79,
+            "timestamp": 1624852462660,
+            "totals": {
+              "bytesReceived": 91512,
+              "bytesSent": 59971,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 710,
+              "packetsSent": 737
+            }
+          },
+          {
+            "audioInputLevel": 10137,
+            "audioOutputLevel": 7316,
+            "bytesReceived": 6423,
+            "bytesSent": 4131,
+            "codecName": "opus",
+            "jitter": 3,
+            "mos": 4.392605334859776,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 51,
+            "rtt": 80,
+            "timestamp": 1624852463661,
+            "totals": {
+              "bytesReceived": 97935,
+              "bytesSent": 64102,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 760,
+              "packetsSent": 788
+            }
+          },
+          {
+            "audioInputLevel": 10366,
+            "audioOutputLevel": 7440,
+            "bytesReceived": 6423,
+            "bytesSent": 4050,
+            "codecName": "opus",
+            "jitter": 2,
+            "mos": 4.393640060869577,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 80,
+            "timestamp": 1624852464664,
+            "totals": {
+              "bytesReceived": 104358,
+              "bytesSent": 68152,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 810,
+              "packetsSent": 838
+            }
+          },
+          {
+            "audioInputLevel": 10417,
+            "audioOutputLevel": 7377,
+            "bytesReceived": 6422,
+            "bytesSent": 4050,
+            "codecName": "opus",
+            "jitter": 4,
+            "mos": 4.391566510209977,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 80,
+            "timestamp": 1624852465660,
+            "totals": {
+              "bytesReceived": 110780,
+              "bytesSent": 72202,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 860,
+              "packetsSent": 888
+            }
+          },
+          {
+            "audioInputLevel": 10499,
+            "audioOutputLevel": 7286,
+            "bytesReceived": 6294,
+            "bytesSent": 4048,
+            "codecName": "opus",
+            "jitter": 4,
+            "mos": 4.391566510209977,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 49,
+            "packetsSent": 50,
+            "rtt": 80,
+            "timestamp": 1624852466664,
+            "totals": {
+              "bytesReceived": 117074,
+              "bytesSent": 76250,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 909,
+              "packetsSent": 938
+            }
+          }
+        ],
+        "selectedEdge": "roaming",
+        "stats": {
+          "jitter": {
+            "average": 4.8333,
+            "max": 10,
+            "min": 2
+          },
+          "mos": {
+            "average": 4.3905,
+            "max": 4.393640060869577,
+            "min": 4.384714608214401
+          },
+          "rtt": {
+            "average": 80.278,
+            "max": 82,
+            "min": 79
+          }
+        },
+        "testTiming": {
+          "start": 1624852445884,
+          "end": 1624852467131,
+          "duration": 21247
+        },
+        "totals": {
+          "bytesReceived": 117074,
+          "bytesSent": 76250,
+          "packetsLost": 0,
+          "packetsLostFraction": 0,
+          "packetsReceived": 909,
+          "packetsSent": 938
+        },
+        "warnings": [],
+        "selectedIceCandidatePair": {
+          "localCandidate": {
+            "id": "RTCIceCandidate_1KsFfRj6",
+            "timestamp": 1624852448662,
+            "type": "local-candidate",
+            "transportId": "RTCTransport_0_1",
+            "isRemote": false,
+            "networkType": "unknown",
+            "ip": "205.185.110.178",
+            "address": "205.185.110.178",
+            "port": 58135,
+            "protocol": "udp",
+            "candidateType": "srflx",
+            "priority": 1677729535
+          },
+          "remoteCandidate": {
+            "id": "RTCIceCandidate_R3RbrNeh",
+            "timestamp": 1624852448662,
+            "type": "remote-candidate",
+            "transportId": "RTCTransport_0_1",
+            "isRemote": true,
+            "ip": "34.203.251.89",
+            "address": "34.203.251.89",
+            "port": 17360,
+            "protocol": "udp",
+            "candidateType": "host",
+            "priority": 2130706431
+          }
+        },
+        "isTurnRequired": false,
+        "callQuality": "excellent"
+      },
+      "bitrate": {
+        "averageBitrate": 3995.8717856189305,
+        "didPass": true,
+        "errors": [],
+        "networkTiming": {
+          "ice": {
+            "start": 1624852467872,
+            "end": 1624852467978,
+            "duration": 106
+          },
+          "peerConnection": {
+            "start": 1624852467875,
+            "end": 1624852468050,
+            "duration": 175
+          },
+          "firstPacket": 1624852468211
+        },
+        "testName": "bitrate-test",
+        "testTiming": {
+          "start": 1624852467535,
+          "end": 1624852482530,
+          "duration": 14995
+        },
+        "values": [
+          2324.203796203796,
+          1496.1437125748503,
+          2836.6328358208957,
+          3716.8933601609656,
+          4055.121756487026,
+          4803.341365461847,
+          3932.7968901846452,
+          6859.967479674797,
+          4785.5902636916835,
+          4324.0079522862825,
+          4905.340020060181,
+          4317.184,
+          3589.1097804391216
+        ],
+        "warnings": []
+      }
+    },
+    "errors": {}
+  },
+  {
+    "region": "dublin",
+    "results": {
+      "preflight": {
+        "callSid": "CAc2582127a730b8d88a146c99ef9686ca",
+        "edge": "dublin",
+        "iceCandidates": [
+          {
+            "id": "RTCIceCandidate_Aw7Z9L+A",
+            "timestamp": 1624852486287,
+            "type": "local-candidate",
+            "transportId": "RTCTransport_0_1",
+            "isRemote": false,
+            "networkType": "unknown",
+            "ip": "205.185.110.177",
+            "address": "205.185.110.177",
+            "port": 50335,
+            "protocol": "udp",
+            "candidateType": "srflx",
+            "priority": 1677729535
+          },
+          {
+            "id": "RTCIceCandidate_9O6zf0B3",
+            "timestamp": 1624852486287,
+            "type": "remote-candidate",
+            "transportId": "RTCTransport_0_1",
+            "isRemote": true,
+            "ip": "52.215.127.221",
+            "address": "52.215.127.221",
+            "port": 13020,
+            "protocol": "udp",
+            "candidateType": "host",
+            "priority": 2130706431
+          }
+        ],
+        "networkTiming": {
+          "dtls": {
+            "start": 1624852485517,
+            "end": 1624852486727,
+            "duration": 1210
+          },
+          "ice": {
+            "start": 1624852485184,
+            "end": 1624852485519,
+            "duration": 335
+          },
+          "peerConnection": {
+            "start": 1624852485501,
+            "end": 1624852486744,
+            "duration": 1243
+          }
+        },
+        "samples": [
+          {
+            "audioInputLevel": 10235,
+            "audioOutputLevel": 0,
+            "bytesReceived": 0,
+            "bytesSent": 0,
+            "codecName": "opus",
+            "jitter": 0,
+            "mos": null,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 0,
+            "packetsSent": 0,
+            "rtt": 149,
+            "timestamp": 1624852486287,
+            "totals": {
+              "bytesReceived": 0,
+              "bytesSent": 0,
+              "packetsLost": 0,
+              "packetsLostFraction": 100,
+              "packetsReceived": 0,
+              "packetsSent": 0
+            }
+          },
+          {
+            "audioInputLevel": 10419,
+            "audioOutputLevel": 2208,
+            "bytesReceived": 1897,
+            "bytesSent": 2315,
+            "codecName": "opus",
+            "jitter": 4,
+            "mos": 4.345510560778177,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 14,
+            "packetsSent": 25,
+            "rtt": 147,
+            "timestamp": 1624852487271,
+            "totals": {
+              "bytesReceived": 1897,
+              "bytesSent": 2315,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 14,
+              "packetsSent": 25
+            }
+          },
+          {
+            "audioInputLevel": 10258,
+            "audioOutputLevel": 7172,
+            "bytesReceived": 6535,
+            "bytesSent": 4064,
+            "codecName": "opus",
+            "jitter": 14,
+            "mos": 4.184317859390976,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 184,
+            "timestamp": 1624852488271,
+            "totals": {
+              "bytesReceived": 8432,
+              "bytesSent": 6379,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 64,
+              "packetsSent": 75
+            }
+          },
+          {
+            "audioInputLevel": 9699,
+            "audioOutputLevel": 7087,
+            "bytesReceived": 6555,
+            "bytesSent": 4049,
+            "codecName": "opus",
+            "jitter": 14,
+            "mos": 4.184317859390976,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 51,
+            "packetsSent": 50,
+            "rtt": 184,
+            "timestamp": 1624852489271,
+            "totals": {
+              "bytesReceived": 14987,
+              "bytesSent": 10428,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 115,
+              "packetsSent": 125
+            }
+          },
+          {
+            "audioInputLevel": 9968,
+            "audioOutputLevel": 7157,
+            "bytesReceived": 6168,
+            "bytesSent": 3886,
+            "codecName": "opus",
+            "jitter": 10,
+            "mos": 4.315502826422977,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 48,
+            "packetsSent": 48,
+            "rtt": 147,
+            "timestamp": 1624852490278,
+            "totals": {
+              "bytesReceived": 21155,
+              "bytesSent": 14314,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 163,
+              "packetsSent": 173
+            }
+          },
+          {
+            "audioInputLevel": 9997,
+            "audioOutputLevel": 7100,
+            "bytesReceived": 6553,
+            "bytesSent": 4215,
+            "codecName": "opus",
+            "jitter": 5,
+            "mos": 4.340662437318977,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 51,
+            "packetsSent": 52,
+            "rtt": 147,
+            "timestamp": 1624852491273,
+            "totals": {
+              "bytesReceived": 27708,
+              "bytesSent": 18529,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 214,
+              "packetsSent": 225
+            }
+          },
+          {
+            "audioInputLevel": 9601,
+            "audioOutputLevel": 7087,
+            "bytesReceived": 6554,
+            "bytesSent": 4040,
+            "codecName": "opus",
+            "jitter": 4,
+            "mos": 4.315502826422977,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 51,
+            "packetsSent": 50,
+            "rtt": 159,
+            "timestamp": 1624852492271,
+            "totals": {
+              "bytesReceived": 34262,
+              "bytesSent": 22569,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 265,
+              "packetsSent": 275
+            }
+          },
+          {
+            "audioInputLevel": 9688,
+            "audioOutputLevel": 7116,
+            "bytesReceived": 6296,
+            "bytesSent": 4023,
+            "codecName": "opus",
+            "jitter": 7,
+            "mos": 4.299683961005376,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 49,
+            "packetsSent": 50,
+            "rtt": 159,
+            "timestamp": 1624852493280,
+            "totals": {
+              "bytesReceived": 40558,
+              "bytesSent": 26592,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 314,
+              "packetsSent": 325
+            }
+          },
+          {
+            "audioInputLevel": 10446,
+            "audioOutputLevel": 7238,
+            "bytesReceived": 6554,
+            "bytesSent": 4061,
+            "codecName": "opus",
+            "jitter": 6,
+            "mos": 4.305016390384576,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 51,
+            "packetsSent": 50,
+            "rtt": 159,
+            "timestamp": 1624852494271,
+            "totals": {
+              "bytesReceived": 47112,
+              "bytesSent": 30653,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 365,
+              "packetsSent": 375
+            }
+          },
+          {
+            "audioInputLevel": 10171,
+            "audioOutputLevel": 6706,
+            "bytesReceived": 6296,
+            "bytesSent": 4070,
+            "codecName": "opus",
+            "jitter": 10,
+            "mos": 4.283333859427776,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 49,
+            "packetsSent": 50,
+            "rtt": 159,
+            "timestamp": 1624852495270,
+            "totals": {
+              "bytesReceived": 53408,
+              "bytesSent": 34723,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 414,
+              "packetsSent": 425
+            }
+          },
+          {
+            "audioInputLevel": 10011,
+            "audioOutputLevel": 7405,
+            "bytesReceived": 6424,
+            "bytesSent": 4048,
+            "codecName": "opus",
+            "jitter": 5,
+            "mos": 4.310289457523776,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 159,
+            "timestamp": 1624852496271,
+            "totals": {
+              "bytesReceived": 59832,
+              "bytesSent": 38771,
+              "packetsLost": 0,
+              "packetsLostFraction": 0,
+              "packetsReceived": 464,
+              "packetsSent": 475
+            }
+          },
+          {
+            "audioInputLevel": 10287,
+            "audioOutputLevel": 6989,
+            "bytesReceived": 6305,
+            "bytesSent": 4046,
+            "codecName": "opus",
+            "jitter": 6,
+            "mos": 4.161426907043777,
+            "packetsLost": 1,
+            "packetsLostFraction": 2,
+            "packetsReceived": 49,
+            "packetsSent": 50,
+            "rtt": 157,
+            "timestamp": 1624852497276,
+            "totals": {
+              "bytesReceived": 66137,
+              "bytesSent": 42817,
+              "packetsLost": 1,
+              "packetsLostFraction": 0.19455252918287938,
+              "packetsReceived": 513,
+              "packetsSent": 525
+            }
+          },
+          {
+            "audioInputLevel": 10452,
+            "audioOutputLevel": 7481,
+            "bytesReceived": 6424,
+            "bytesSent": 4045,
+            "codecName": "opus",
+            "jitter": 7,
+            "mos": 4.305016390384576,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 157,
+            "timestamp": 1624852498271,
+            "totals": {
+              "bytesReceived": 72561,
+              "bytesSent": 46862,
+              "packetsLost": 1,
+              "packetsLostFraction": 0.1773049645390071,
+              "packetsReceived": 563,
+              "packetsSent": 575
+            }
+          },
+          {
+            "audioInputLevel": 10126,
+            "audioOutputLevel": 7031,
+            "bytesReceived": 6424,
+            "bytesSent": 4067,
+            "codecName": "opus",
+            "jitter": 5,
+            "mos": 4.315502826422977,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 157,
+            "timestamp": 1624852499270,
+            "totals": {
+              "bytesReceived": 78985,
+              "bytesSent": 50929,
+              "packetsLost": 1,
+              "packetsLostFraction": 0.16286644951140067,
+              "packetsReceived": 613,
+              "packetsSent": 625
+            }
+          },
+          {
+            "audioInputLevel": 9858,
+            "audioOutputLevel": 6770,
+            "bytesReceived": 6424,
+            "bytesSent": 4045,
+            "codecName": "opus",
+            "jitter": 4,
+            "mos": 4.3206561610821765,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 157,
+            "timestamp": 1624852500270,
+            "totals": {
+              "bytesReceived": 85409,
+              "bytesSent": 54974,
+              "packetsLost": 1,
+              "packetsLostFraction": 0.15060240963855423,
+              "packetsReceived": 663,
+              "packetsSent": 675
+            }
+          },
+          {
+            "audioInputLevel": 10117,
+            "audioOutputLevel": 7203,
+            "bytesReceived": 6421,
+            "bytesSent": 4046,
+            "codecName": "opus",
+            "jitter": 5,
+            "mos": 4.315502826422977,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 157,
+            "timestamp": 1624852501271,
+            "totals": {
+              "bytesReceived": 91830,
+              "bytesSent": 59020,
+              "packetsLost": 1,
+              "packetsLostFraction": 0.1400560224089636,
+              "packetsReceived": 713,
+              "packetsSent": 725
+            }
+          },
+          {
+            "audioInputLevel": 10761,
+            "audioOutputLevel": 7207,
+            "bytesReceived": 6421,
+            "bytesSent": 4048,
+            "codecName": "opus",
+            "jitter": 5,
+            "mos": 4.335752599619776,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 149,
+            "timestamp": 1624852502272,
+            "totals": {
+              "bytesReceived": 98251,
+              "bytesSent": 63068,
+              "packetsLost": 1,
+              "packetsLostFraction": 0.13089005235602094,
+              "packetsReceived": 763,
+              "packetsSent": 775
+            }
+          },
+          {
+            "audioInputLevel": 10173,
+            "audioOutputLevel": 7191,
+            "bytesReceived": 6429,
+            "bytesSent": 4044,
+            "codecName": "opus",
+            "jitter": 8,
+            "mos": 4.3206561610821765,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 149,
+            "timestamp": 1624852503270,
+            "totals": {
+              "bytesReceived": 104680,
+              "bytesSent": 67112,
+              "packetsLost": 1,
+              "packetsLostFraction": 0.12285012285012285,
+              "packetsReceived": 813,
+              "packetsSent": 825
+            }
+          },
+          {
+            "audioInputLevel": 10192,
+            "audioOutputLevel": 7343,
+            "bytesReceived": 6422,
+            "bytesSent": 4050,
+            "codecName": "opus",
+            "jitter": 8,
+            "mos": 4.3206561610821765,
+            "packetsLost": 0,
+            "packetsLostFraction": 0,
+            "packetsReceived": 50,
+            "packetsSent": 50,
+            "rtt": 149,
+            "timestamp": 1624852504270,
+            "totals": {
+              "bytesReceived": 111102,
+              "bytesSent": 71162,
+              "packetsLost": 1,
+              "packetsLostFraction": 0.11574074074074073,
+              "packetsReceived": 863,
+              "packetsSent": 875
+            }
+          }
+        ],
+        "selectedEdge": "dublin",
+        "stats": {
+          "jitter": {
+            "average": 7.0556,
+            "max": 14,
+            "min": 4
+          },
+          "mos": {
+            "average": 4.2933,
+            "max": 4.345510560778177,
+            "min": 4.161426907043777
+          },
+          "rtt": {
+            "average": 157.56,
+            "max": 184,
+            "min": 147
+          }
+        },
+        "testTiming": {
+          "start": 1624852483106,
+          "end": 1624852504877,
+          "duration": 21771
+        },
+        "totals": {
+          "bytesReceived": 111102,
+          "bytesSent": 71162,
+          "packetsLost": 1,
+          "packetsLostFraction": 0.11574074074074073,
+          "packetsReceived": 863,
+          "packetsSent": 875
+        },
+        "warnings": [],
+        "selectedIceCandidatePair": {
+          "localCandidate": {
+            "id": "RTCIceCandidate_Aw7Z9L+A",
+            "timestamp": 1624852486287,
+            "type": "local-candidate",
+            "transportId": "RTCTransport_0_1",
+            "isRemote": false,
+            "networkType": "unknown",
+            "ip": "205.185.110.177",
+            "address": "205.185.110.177",
+            "port": 50335,
+            "protocol": "udp",
+            "candidateType": "srflx",
+            "priority": 1677729535
+          },
+          "remoteCandidate": {
+            "id": "RTCIceCandidate_9O6zf0B3",
+            "timestamp": 1624852486287,
+            "type": "remote-candidate",
+            "transportId": "RTCTransport_0_1",
+            "isRemote": true,
+            "ip": "52.215.127.221",
+            "address": "52.215.127.221",
+            "port": 13020,
+            "protocol": "udp",
+            "candidateType": "host",
+            "priority": 2130706431
+          }
+        },
+        "isTurnRequired": false,
+        "callQuality": "excellent"
+      },
+      "bitrate": {
+        "averageBitrate": 1622.6086031827792,
+        "didPass": true,
+        "errors": [],
+        "networkTiming": {
+          "ice": {
+            "start": 1624852505991,
+            "end": 1624852506347,
+            "duration": 356
+          },
+          "peerConnection": {
+            "start": 1624852505996,
+            "end": 1624852506827,
+            "duration": 831
+          },
+          "firstPacket": 1624852507809
+        },
+        "testName": "bitrate-test",
+        "testTiming": {
+          "start": 1624852505438,
+          "end": 1624852520412,
+          "duration": 14974
+        },
+        "values": [
+          194.27667984189722,
+          1950.4761904761904,
+          2825.954137587238,
+          1787.6436436436436,
+          753.664,
+          1470.1495513459622,
+          1592.432865731463,
+          1522.1898101898103,
+          1599.039039039039,
+          1890.4615384615386,
+          1929.4530938123753,
+          1955.5626880641926
+        ],
+        "warnings": [
+          "high-ice-connect-duration",
+          "high-first-packet-duration"
+        ]
+      }
+    },
+    "errors": {}
+  }
+]

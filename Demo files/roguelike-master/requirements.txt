@@ -1,0 +1,14 @@
+sphinx
+sphinx-autodoc-typehints
+sphinx-rtd-theme
+wheel
+black
+pytest
+coveralls
+flake8
+pytest-cov
+pytest-mock
+pre-commit
+arcade
+pyglet
+mypy

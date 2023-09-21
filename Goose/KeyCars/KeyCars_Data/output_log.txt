@@ -1,0 +1,31 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics (ID=0x5a85)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   22.20.16.4836
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\thema\OneDrive\Desktop\Goose\KeyCars\KeyCars_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\thema\OneDrive\Desktop\Goose\KeyCars\KeyCars_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\thema\OneDrive\Desktop\Goose\KeyCars\KeyCars_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\thema\OneDrive\Desktop\Goose\KeyCars\KeyCars_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\thema\OneDrive\Desktop\Goose\KeyCars\KeyCars_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\thema\OneDrive\Desktop\Goose\KeyCars\KeyCars_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\thema\OneDrive\Desktop\Goose\KeyCars\KeyCars_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\thema\OneDrive\Desktop\Goose\KeyCars\KeyCars_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\thema\OneDrive\Desktop\Goose\KeyCars\KeyCars_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\thema\OneDrive\Desktop\Goose\KeyCars\KeyCars_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.904 seconds
+Platform assembly: C:\Users\thema\OneDrive\Desktop\Goose\KeyCars\KeyCars_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\thema\OneDrive\Desktop\Goose\KeyCars\KeyCars_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 120Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 2.288400 ms
+Platform assembly: C:\Users\thema\OneDrive\Desktop\Goose\KeyCars\KeyCars_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\thema\OneDrive\Desktop\Goose\KeyCars\KeyCars_Data\Managed\Boo.Lang.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1764 -> priority: 1 
